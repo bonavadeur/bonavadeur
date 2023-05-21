@@ -7,7 +7,7 @@
 <img align="right" width="auto" height="200" src="images/bonatonikon.jpg">
 
 ## About me
-* Tôi là người Việt Nam. I am Vietnamese. 私はベトナム人です。
+* Patriotic Weaboo, Truely Nikonian.
 * :boy: Đào Hiệp :japanese_ogre: Bonavadeur :smile_cat: ボナちゃん
 * :school: Hanoi University of Science and Technology, Sept 2019 - Now
 * :mailbox: daodaihiep22ussr@gmail.com
