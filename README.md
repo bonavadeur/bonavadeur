@@ -12,6 +12,8 @@
 * :school: Hanoi University of Science and Technology, Sept 2019 - Now
 * :mailbox: daodaihiep22ussr@gmail.com
 * :camera: :musical_keyboard: :headphones: :tv: :book:
+
+![](images/github-wp.png)
 <!-- * :book: [Privé de Bonavadeur](https://prive.bonavadeur.pro) (
 ボナちゃんのプヒベ) -->
 <!-- MÒ TẬN VÀO ĐÂY ĐỌC THÌ CŨNG GHÊ ĐẤY, KIA LÀ BLOG CỦA WATASHI -->
