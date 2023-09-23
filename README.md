@@ -2,9 +2,9 @@
 
 <!--<h1 align="center" style="font-weight:bold;text-decoration:none;">これはボナちゃんのｷﾞﾄハブです。</h1>-->
 
-<h2 align="center" style="font-weight:bold;text-decoration:none;color:white;">こんにちは、ボナちゃんです。初めまして。>o<"</h2>
+<h1 align="center" style="font-weight:bold;text-decoration:none;">こんにちは、ボナちゃんです。初めまして。>o<"</h1>
 
-<h2 align="center" style="font-weight:bold;text-decoration:none;color:white;">これはボナちゃんのｷﾞﾄハブです。</h2>
+<h1 align="center" style="font-weight:bold;text-decoration:none;">これはボナちゃんのｷﾞﾄハブです。</h1>
 
 <br>
 
