@@ -1,6 +1,6 @@
-<h1 align="center" style="font-weight:bold;">こんにちは、ボナちゃんです。初めまして。>o<"</h1>
+<h1 align="center" style="font-weight:bold;text-decoration:none;">こんにちは、ボナちゃんです。初めまして。>o<"</h1>
 
-<h1 align="center" style="font-weight:bold;">これはボナちゃんのｷﾞﾄハブです。</h1>
+<h1 align="center" style="font-weight:bold;text-decoration:none;">これはボナちゃんのｷﾞﾄハブです。</h1>
 
 <br>
 
