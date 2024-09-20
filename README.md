@@ -10,7 +10,7 @@
 
 <img align="right" width="auto" height="200" src="images/bonatonikon.jpg">
 
-## About me
+### About me
 * Patriotic Weaboo, Truely Nikonian.
 * :boy: Đào Hiệp :japanese_ogre: Bonavadeur :smile_cat: ボナちゃん
 * :school: Hanoi University of Science and Technology, Sept 2019 - Now
