@@ -13,9 +13,16 @@
 ### About me
 * Patriotic Weaboo, Truely Nikonian.
 * :boy: Đào Hiệp :japanese_ogre: Bonavadeur :smile_cat: ボナちゃん
-* :school: Hanoi University of Science and Technology, Sept 2019 - Now
+* :school: Hanoi University of Science and Technology, Sep 2019 - May 2024
+* :office: FPT Smart Cloud Company, Vietnam, May 2024 - Now
 * :mailbox: daodaihiep22ussr@gmail.com
-* :camera: :musical_keyboard: :headphones: :tv: :book:
+* :camera: :headphones: :tv: :book:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,kubernetes,openstack,docker,go,grafana,prometheus,py,postgres,rabbitmq,redis" />
+  </a>
+</p>
 
 ![](images/github-wp.png)
 <!-- * :book: [Privé de Bonavadeur](https://prive.bonavadeur.pro) (
