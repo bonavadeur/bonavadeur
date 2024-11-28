@@ -11,7 +11,7 @@
 <img align="right" width="auto" height="200" src="images/bonatonikon.jpg">
 
 ### About me
-* Patriotic Weaboo, Truely Nikonian.
+* Patriotic Otaku, Truely Nikonian.
 * :boy: Đào Hiệp :japanese_ogre: Bonavadeur :smile_cat: ボナちゃん
 * :school: Hanoi University of Science and Technology, Sep 2019 - May 2024
 * :office: FPT Smart Cloud Company, Vietnam, May 2024 - Now
