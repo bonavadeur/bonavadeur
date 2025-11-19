@@ -11,7 +11,7 @@
 <img align="right" width="auto" height="200" src="images/bonatonikon.jpg">
 
 ### About me
-* Patriotic Otaku, Truely Nikonian.
+* Patriotic Otaku, Genuine Nikonian.
 * :boy: Đào Hiệp :japanese_ogre: Bonavadeur :smile_cat: ボナちゃん
 * :school: Hanoi University of Science and Technology, Sep 2019 - May 2024
 * :office: FPT Smart Cloud (FCI), Vietnam, May 2024 - Now
@@ -20,12 +20,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kubernetes,openstack,docker,go,grafana,prometheus,py,postgres,rabbitmq,redis" />
+    <img src="https://skillicons.dev/icons?i=linux,kubernetes,openstack,docker,go,grafana,prometheus,py,postgres,rabbitmq,redis,mongodb" />
   </a>
 </p>
 
 ![](images/github-wp.png)
-<!-- * :book: [Privé de Bonavadeur](https://prive.bonavadeur.pro) (
+<!-- * :book: [Privé de Bonavadeur](https://prive.bonavadeur.io.vn) (
 ボナちゃんのプヒベ) -->
 <!-- MÒ TẬN VÀO ĐÂY ĐỌC THÌ CŨNG GHÊ ĐẤY, KIA LÀ BLOG CỦA WATASHI -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
